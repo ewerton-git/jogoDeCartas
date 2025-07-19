@@ -73,3 +73,15 @@
 }
 
 /* Lado direito */
+
+.containerRight{
+    width: 65%;
+}
+
+.cardBoxContainer{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: ;
+    padding: 0.3rem
+}
